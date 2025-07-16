@@ -4,18 +4,6 @@
 
 <h1 align="center">KRISTORY Launcher</h1>
 
-<p align="center">
-  <strong>Современный. Быстрый. Удобный.</strong>
-  <br />
-  <em>Ваш идеальный вход в мир Kristory.</em>
-</p>  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/github/downloads/rulled/kristory-launcher/total?style=for-the-badge&logo=github&color=blueviolet" alt="Downloads" />
-  <img src="https://img.shields.io/github/release/rulled/kristory-launcher?style=for-the-badge&logo=github&color=blueviolet" alt="Latest Release" />
-</p>
-
 ---
 
 ## 🚀 Об игре

@@ -1,0 +1,133 @@
+
+[
+  {
+      "filename": "BetterThirdPerson-fabric-1.21.5-1.9.0.jar",
+      "name": "BetterThirdPerson",
+      "description": "Независимое вращение камеры от третьего лица."
+  },
+  {
+      "filename": "cave_dust-3.0.1.jar",
+      "name": "Cave Dust",
+      "description": "Добавляет частицы пыли в подземные области."
+  },
+  {
+      "filename": "chunksfadein-fabric-3.0.1-1.21.5.jar",
+      "name": "Chunks Fade In",
+      "description": "Плавные анимации загрузки чанков."
+  },
+  {
+      "filename": "DistantHorizons-2.3.3-b-1.21.5-fabric-neoforge.jar",
+      "name": "Distant Horizons",
+      "description": "Увеличивает дальность прорисовки за счет LOD."
+  },
+  {
+      "filename": "EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar",
+      "name": "Euphoria Patches",
+      "description": "Дополнение для шейдеров."
+  },
+  {
+      "filename": "fadeless-2.0.3.jar",
+      "name": "Fadeless",
+      "description": "Удаляет анимации затухания."
+  },
+  {
+      "filename": "fallingleaves-2.0.0+1.21.5.jar",
+      "name": "Falling Leaves",
+      "description": "Добавляет частицы падающих листьев."
+  },
+  {
+      "filename": "immersive-hotbar-1.0.4-1.21.5.jar",
+      "name": "Immersive Hotbar",
+      "description": "Добавляет анимации к хотбару."
+  },
+  {
+      "filename": "InvMove-0.9.0+1.21.4-Fabric.jar",
+      "name": "InvMove",
+      "description": "Позволяет двигаться в инвентаре."
+  },
+  {
+      "filename": "InvMoveCompats-0.4.0+1.21.4-Fabric.jar",
+      "name": "InvMoveCompats",
+      "description": "Добавляет совместимость InvMove с другими модами."
+  },
+  {
+      "filename": "litematica-fabric-1.21.5-0.22.2.jar",
+      "name": "Litematica",
+      "description": "Мод для схематик и строительных инструментов."
+  },
+  {
+      "filename": "MouseTweaks-fabric-mc1.21.3-2.27.jar",
+      "name": "Mouse Tweaks",
+      "description": "Улучшает управление инвентарем."
+  },
+  {
+      "filename": "notenoughanimations-fabric-1.10.1-mc1.21.5.jar",
+      "name": "Not Enough Animations",
+      "description": "Добавляет/исправляет анимации игрока."
+  },
+  {
+      "filename": "particlerain-4.0.0-alpha-2+1.21.5-fabric.jar",
+      "name": "Particle Rain",
+      "description": "Заменяет погоду красивыми эффектами частиц."
+  },
+  {
+      "filename": "talk_balloons-fabric-1.3.0+1.21.5.jar",
+      "name": "Talk Balloons",
+      "description": "Пузыри с текстом над головами игроков в чате."
+  },
+  {
+      "filename": "visuality-0.7.10+1.21.5.jar",
+      "name": "Visuality",
+      "description": "Добавляет новые частицы для визуальных эффектов."
+  },
+  {
+      "filename": "Annuus-fabric-1.0.9.jar",
+      "name": "Annuus",
+      "description": "Оптимизирует сетевое взаимодействие."
+  },
+  {
+      "filename": "BigShot-fabric-1.21.5-12.0.1.jar",
+      "name": "BigShot",
+      "description": "Утилита/QoL (функциональность не детализирована)."
+  },
+  {
+      "filename": "capes-1.5.5+1.21.5-fabric.jar",
+      "name": "Capes",
+      "description": "Кастомизация плащей."
+  },
+  {
+      "filename": "dynamic-fps-3.9.5+minecraft-1.21.5-fabric.jar",
+      "name": "Dynamic FPS",
+      "description": "Снижает нагрузку, когда игра свернута."
+  },
+  {
+      "filename": "emotecraft-fabric-for-MC1.21.5-2.6.1.jar",
+      "name": "EmoteCraft",
+      "description": "Добавляет эмоции в игру."
+  },
+  {
+      "filename": "fastquit-3.0.0+1.21.4.jar",
+      "name": "FastQuit",
+      "description": "Ускоряет выход из мира."
+  },
+  {
+      "filename": "iris-fabric-1.8.11+mc1.21.5.jar",
+      "name": "Iris Shaders",
+      "description": "Поддержка шейдеров для Sodium."
+  },
+  {
+      "filename": "modmenu-14.0.0-rc.2.jar",
+      "name": "Mod Menu",
+      "description": "Меню для управления модами."
+  },
+  {
+      "filename": "skinlayers3d-fabric-1.8.1-mc1.21.5.jar",
+      "name": "3D Skin Layers",
+      "description": "Делает слои скина объемными."
+  },
+  {
+      "filename": "waveycapes-fabric-1.6.1.1-mc1.21.5.jar",
+      "name": "Wavey Capes",
+      "description": "Добавляет анимацию волны для плащей."
+  }
+]

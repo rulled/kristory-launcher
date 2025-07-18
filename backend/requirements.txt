@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+requests
+minecraft-launcher-lib
+pyinstaller
+mcstatus==12.0.0
+Pillow
+pyshortcuts
+pywin32
+psutil

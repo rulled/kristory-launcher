@@ -1,0 +1,57 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# next.js
+/.next/
+/out/
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# electron-builder
+/release
+
+# python
+/.venv
+/build/
+/dist/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode
+.idea
+
+# PyInstaller temp build folders
+build_py_temp/
+build/venvs/
+
+# Logs (общие)
+*.log
+
+# Windows system files
+Thumbs.db
+
+# Executables and DLLs
+*.exe
+*.dll

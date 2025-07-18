@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="KRISTORY Logo" width="400"/>
+  <img src="public/banner.png" alt="KRISTORY Logo" width="400"/>
 </div>
 
 <h1 align="center">KRISTORY Launcher</h1>

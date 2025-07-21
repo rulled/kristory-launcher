@@ -2,10 +2,6 @@
   <img src="public/banner.png" alt="KRISTORY Logo" width="400"/>
 </div>
 
-<p align="center">
-  <strong>Minecraft-лаунчер для проекта Kristory</strong>
-</p>
-
 ---
 
 ## 🚀 **Об игре**

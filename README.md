@@ -2,8 +2,6 @@
   <img src="public/banner.png" alt="KRISTORY Logo" width="400"/>
 </div>
 
-<h1 align="center">KRISTORY Launcher</h1>
-
 <p align="center">
   <strong>Minecraft-лаунчер для проекта Kristory</strong>
 </p>
